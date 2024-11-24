@@ -1,15 +1,21 @@
+# Handwritten Character Recognition System  
 
-# **Handwritten Character Recognition from Live Camera Feed**
+## Overview  
+This project is a real-time **Handwritten Character Recognition System** that captures handwritten text via a camera, preprocesses the input, and converts it into digital text using deep learning techniques.
 
-## **Objective**
-The goal of this project is to develop a deep learning-based system capable of recognizing handwritten characters in real time using a live camera feed. The system will identify and interpret characters from various media, such as paper, signboards, or handwritten notes, ensuring accurate recognition across diverse handwriting styles and real-world conditions.
+---
+
+## Features  
+- **Real-Time Recognition**: Capture handwritten text through a camera.  
+- **Accurate Detection**: Robust preprocessing and deep learning models ensure high accuracy.  
+- **Versatile Support**: Handles alphabets, numbers, and special characters.  
+- **User-Friendly Output**: Displays or saves the recognized text.  
 
 ---
 
-## **Key Features**
-- **Real-Time Detection**: The system captures input from a live camera and processes it to detect and recognize handwritten characters.
-- **Versatile Media Compatibility**: Recognizes characters written on paper, signboards, or any visible surface.
-- **Robust to Variations**: Handles differences in handwriting styles, sizes, and orientations effectively.
-- **Platform Support**: Works on laptops, mobile devices, and other platforms with a camera interface.
+## Installation  
 
----
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/Code-Kid/handwritten-character-recognition.git
+   cd handwritten-character-recognition
